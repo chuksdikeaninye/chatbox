@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c>
-<IfModule dir_module>
+ <IfModule dir_module>
     DirectoryIndex index.html index.php
-</IfModule>
+ </IfModule>
 
     RewriteEngine On
 
