@@ -1,0 +1,15 @@
+{
+    "name": "shoutit/shoutit",
+    "type": "project",
+    "description": "chat web app.",
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3"
+
+    }
+ 
+}
