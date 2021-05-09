@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?php
 $servername = "localhost";
 $username = "root";
@@ -15,6 +16,8 @@ if (!$connect) {
 
 
 =======
+=======
+>>>>>>> a81707173982a565c02f76192b4eba3f214a852a
 <?php
 $servername = "localhost";
 $username = "root";
@@ -30,5 +33,8 @@ if (!$connect) {
 }
 
 
+<<<<<<< HEAD
 >>>>>>> initial commit
+=======
+>>>>>>> a81707173982a565c02f76192b4eba3f214a852a
 ?>

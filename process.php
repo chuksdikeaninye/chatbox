@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?php
 include "database.php";
 // check if form is submited using the isset function
@@ -44,6 +45,8 @@ if(isset($_POST['submit'])) {
  }
  ?>
 =======
+=======
+>>>>>>> a81707173982a565c02f76192b4eba3f214a852a
 <?php
 include "database.php";
 // check if form is submited using the isset function
@@ -88,4 +91,7 @@ if(isset($_POST['submit'])) {
 
  }
  ?>
+<<<<<<< HEAD
 >>>>>>> initial commit
+=======
+>>>>>>> a81707173982a565c02f76192b4eba3f214a852a
